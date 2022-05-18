@@ -1,0 +1,14 @@
+.RARITY_class{
+    text-align: center;
+    font-weight: bold;
+    font-size: 70px;
+    color: #111111;
+}
+.common_class{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 30px;
+    flex-wrap: wrap;
+}

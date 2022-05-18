@@ -1,0 +1,133 @@
+.h1_tag {
+  text-align: center;
+  margin-top: 50px;
+  font-weight: bolder;
+  font-size: 70px;
+}
+.container_class{
+  width: 100%;
+  max-width: 1350px !important;
+}
+.image_class{
+  height: auto;
+  min-height: 400px;
+  width: 100%;
+  max-width: 439px;
+  object-fit: cover;
+  background: red;
+  border-radius: 20px;
+}
+.card_class {
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+.cards_text_div{
+  position: absolute;
+  top: 10px;
+  right: 0px;
+  left: 10px;
+}
+.first_main_div {
+  opacity: 1;
+  position: relative;
+}
+.first_l_div {
+  opacity: 1;
+}
+.four_main_div {
+ opacity: 1;
+ position: relative;
+}
+.last_cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 35px;
+  margin-top: 30px;
+}
+.fifth_main_div {
+opacity: 1;
+position: relative;
+}
+.img_main_div {
+  background-color: red;
+  width: 100%;
+  max-width: 500px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+.sec_main_div {
+  opacity: 1;
+  position: relative;
+}
+.sec_img {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+}
+.third_main_div {
+  opacity: 1;
+ position: relative;
+}
+/* .f_card {
+  background-image: url("../assets/f.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+  background-color: #FF3D3D;    
+} */
+.ff_class {
+  background-image: url("../assets//ff.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+}
+.fff_class {
+  background-image: url("../assets/fff.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 40vh;
+}
+.ff_image{
+  height: auto;
+  min-height: 400px;
+  width: 100%;
+  max-width: 439px;
+  object-fit: cover;
+  background: #E2E0DD;
+  border-radius: 20px;
+}
+.fff_class{
+  height: auto;
+  min-height: 400px;
+  width: 100%;
+  max-width: 439px;
+  object-fit: cover;
+  background: #E2E0DD;
+  border-radius: 20px;
+}
+.ffff_class{
+  height: auto;
+  min-height: 400px;
+  width: 100%;
+  max-width: 439px;
+  object-fit: cover;
+  background: #E2E0DD;
+  border-radius: 20px;
+}
+.fffff_class{
+  height: auto;
+  min-height: 400px;
+  width: 100%;
+  max-width: 439px;
+  object-fit: cover;
+  background: #E2E0DD;
+  border-radius: 20px;
+}
