@@ -9,8 +9,8 @@ const Hakiteam = () => {
       <div>
         <h1 className="haki_team">THE HAKI TEAM</h1>
       </div>
-
-      <div className="row d-flex flex-wrap justify-content-between">
+      <div className="container-fluid" style={{ backgroundColor:"#E1E1E1" }}>
+      <div className="row justify-content-evenly" style={{ display:"flex", flexWrap:"wrap" }} >
         {carddata.map((itm) => {
           return (
             <>
@@ -26,6 +26,8 @@ const Hakiteam = () => {
           );
         })}
       </div>
+      </div>
+     
     </>
   );
 };

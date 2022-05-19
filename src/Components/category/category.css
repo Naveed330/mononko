@@ -12,12 +12,13 @@
 .first_div {
   background-color: #c03842;
   background-image: url("../assets/firstdiv.png");
-  background-attachment: fixed;
+  /* background-attachment: fixed; */
   background-repeat: no-repeat;
   background-size: cover;
   height: 20vh;
   width: 100%;
   border-radius: 10px;
+  margin-top: 30px;
 }
 .second_div {
   background-color: #c03842;

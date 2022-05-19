@@ -4,7 +4,7 @@ import secdiv from "../assets/secdiv.png";
 const Newcategory = ({title,number,titleone,bgColor}) => {
   return (
     
-        <div className="col-md-3 col-sm-12">
+        <div className="col-md-4 col-sm-12">
           <div className='main_div'>
           <div className="first_div">
             <p

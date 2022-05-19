@@ -1,0 +1,23 @@
+.footer_image{
+    background-image: url("../assets/fbg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center ;
+    padding: 170px;
+}
+.img_class{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.link_main_div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    margin-top: 20px;
+}
+.last_text{
+    text-align: center;
+    margin-top: 25px;
+}

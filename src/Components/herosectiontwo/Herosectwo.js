@@ -3,12 +3,14 @@ import "./Herosectwo.css";
 const Herosectwo = () => {
   return (
     <>
-      <div style={{ backgroundColor: "#F1EEEC", padding:"50px" }}>
+    <div className="container-fluid" style={{ backgroundColor: "#F1EEEC", padding:"50px" }}>
+      <div className="container">
+      <div>
         <div>
           <h1 className="h1_TAG">What Is Haki</h1>
         </div>
         <div>
-          <p style={{ textAlign: "center", color: "#111111", marginTop:"20px" }}>
+          <p style={{ textAlign: "center", color: "#111111", marginTop:"20px", fontSize:"25px" }}>
             HAKI is a brand that is ‘For the Community. By the Community.’
           </p>
         </div>
@@ -19,7 +21,9 @@ const Herosectwo = () => {
               display: "flex",
               justifyContent: "center",
               alignItems: "center",
-              
+              fontSize:"25px",
+              textAlign:"center",
+              marginTop:"30px"
             }}
           >
             A collection of 5,000 unique HAKIs built to go beyond the digital
@@ -33,6 +37,10 @@ const Herosectwo = () => {
           </p>
         </div>
       </div>
+      </div>
+  
+    </div>
+  
     </>
   );
 };

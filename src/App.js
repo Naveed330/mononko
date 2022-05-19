@@ -1,5 +1,6 @@
 import './App.css';
 import Category from './Components/category/Category';
+import Footer from './Components/footer/Footer';
 import Hakset from './Components/hakimindset/Hakset';
 import Hakiteam from './Components/hakiteam/Hakiteam';
 import HeroSection from './Components/herosection/HeroSection';
@@ -19,6 +20,7 @@ function App() {
     <Roadmap/>
     <Hakset/>
     <Hakiteam/>
+    <Footer/>
     </>
   );
 }

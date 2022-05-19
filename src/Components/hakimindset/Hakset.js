@@ -12,7 +12,7 @@ const Hakset = () => {
       <div className="main_div">
         <h1 className="h1_tag">THE HAKI MINDMAP</h1>
         <p
-          style={{ textAlign: "center", fontSize: "30px", fontWeight: "bold" }}
+          style={{ textAlign: "center", fontSize: "25px"}}
         >
           Want to take a look into our minds?
         </p>

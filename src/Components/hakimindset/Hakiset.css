@@ -10,12 +10,12 @@
 }
 .image_class{
   height: auto;
-  min-height: 400px;
+  min-height: 300px;
   width: 100%;
   max-width: 439px;
   object-fit: cover;
   background: red;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 .card_class {
   display: flex;
@@ -130,4 +130,9 @@ position: relative;
   object-fit: cover;
   background: #E2E0DD;
   border-radius: 20px;
+}
+@media (max-width:768px){
+  .h1_tag{
+    font-size: 50px;
+  }
 }

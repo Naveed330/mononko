@@ -12,3 +12,18 @@
     margin-top: 30px;
     flex-wrap: wrap;
 }
+.same_class{
+    filter: grayscale(100%);
+    width: 100%;
+    max-width: 350px;
+}
+.same_class:hover{
+    transition: 0.5s;
+    filter: none;
+}
+@media (max-width:768px){
+    .RARITY_class{
+    font-size: 50px;
+
+    }
+}

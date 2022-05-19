@@ -19,13 +19,13 @@ const Rarity = () => {
         </div>
         <div className="common_class">
           <div>
-           <img src={one} alt="" style={{width:"400px" }} />
+           <img src={three} alt=""  className="same_class" />
           </div>
           <div>
-           <img src={two} alt="" style={{width:"400px" }} />
+           <img src={two} alt=""  className="same_class" />
           </div>
           <div>
-           <img src={three} alt="" style={{width:"400px" }} />
+           <img src={three} alt=""  className="same_class" />
           </div>
         </div>
       </div>

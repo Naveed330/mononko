@@ -4,3 +4,8 @@
     font-size: 80px;
     color: #111111;
 }
+@media (max-width:768px){
+    .h1_TAG{
+    font-size: 50px;
+    }
+}
